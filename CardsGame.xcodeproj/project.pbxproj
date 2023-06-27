@@ -11,6 +11,8 @@
 		5268FDA12A4416000006FBF8 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5268FDA02A4416000006FBF8 /* ContentView.swift */; };
 		5268FDA32A4416090006FBF8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5268FDA22A4416090006FBF8 /* Assets.xcassets */; };
 		5268FDA62A4416090006FBF8 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5268FDA52A4416090006FBF8 /* Preview Assets.xcassets */; };
+		52AD5CC22A49C70F00BC206E /* DetailsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52AD5CC12A49C70F00BC206E /* DetailsView.swift */; };
+		52AD5CC42A49CAEC00BC206E /* LoginView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52AD5CC32A49CAEB00BC206E /* LoginView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +21,8 @@
 		5268FDA02A4416000006FBF8 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		5268FDA22A4416090006FBF8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5268FDA52A4416090006FBF8 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		52AD5CC12A49C70F00BC206E /* DetailsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailsView.swift; sourceTree = "<group>"; };
+		52AD5CC32A49CAEB00BC206E /* LoginView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +57,8 @@
 			children = (
 				5268FD9E2A4416000006FBF8 /* CardsGameApp.swift */,
 				5268FDA02A4416000006FBF8 /* ContentView.swift */,
+				52AD5CC12A49C70F00BC206E /* DetailsView.swift */,
+				52AD5CC32A49CAEB00BC206E /* LoginView.swift */,
 				5268FDA22A4416090006FBF8 /* Assets.xcassets */,
 				5268FDA42A4416090006FBF8 /* Preview Content */,
 			);
@@ -139,6 +145,8 @@
 			files = (
 				5268FDA12A4416000006FBF8 /* ContentView.swift in Sources */,
 				5268FD9F2A4416000006FBF8 /* CardsGameApp.swift in Sources */,
+				52AD5CC42A49CAEC00BC206E /* LoginView.swift in Sources */,
+				52AD5CC22A49C70F00BC206E /* DetailsView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
